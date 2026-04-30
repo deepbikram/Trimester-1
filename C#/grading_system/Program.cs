@@ -173,7 +173,7 @@ class Program
 {
     static void Main()
     {
-       Console.Write(" Enter marks of Math: ");
+       Console.Write(" Enter marks of Math: "); 
        int mathMarks = Convert.ToInt32(Console.ReadLine());
 
        Console.Write(" Enter marks of Science: ");
@@ -182,22 +182,43 @@ class Program
        Console.Write(" Enter marks of English: ");
        int englishMarks = Convert.ToInt32(Console.ReadLine());
 
+       if (mathMarks < 0 || mathMarks > 100 || scienceMarks < 0 || scienceMarks > 100 || englishMarks < 0 || englishMarks > 100)
+        {
+            Console.WriteLine("Invalid marks entered. Please enter marks between 0 and 100.");
+            return; // Exit if invalid marks >0 || <100
+        }
+
+        else // run if marks are valid
+        {
+
          int totalMarks = mathMarks + scienceMarks + englishMarks;
          double percentage = (double)totalMarks / 3;
 
-         if (percentage >= 90 && percentage <= 100)
+         if (percentage >= 90 && percentage <= 100) //grade calculation
+            {
+                Console.WriteLine("Grade: A+");
+            }
+            else if (percentage >= 80 && percentage < 90)
             {
                 Console.WriteLine("Grade: A");
             }
             else if (percentage >= 80 && percentage < 90)
             {
-                Console.WriteLine("Grade: B");
+                Console.WriteLine("Grade: B+");
             }
             else if (percentage >= 70 && percentage < 80)
             {
-                Console.WriteLine("Grade: C");
+                Console.WriteLine("Grade: B");
             }
             else if (percentage >= 60 && percentage < 70)
+            {
+                Console.WriteLine("Grade: C+");
+            }
+            else if (percentage >= 50 && percentage < 60)
+            {
+                Console.WriteLine("Grade: C");
+            }
+            else if (percentage >= 40 && percentage < 50)
             {
                 Console.WriteLine("Grade: D");
             }
@@ -207,4 +228,4 @@ class Program
             }
     }
 }   
-
+}
