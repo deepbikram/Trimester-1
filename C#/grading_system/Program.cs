@@ -187,14 +187,12 @@ class Program
             Console.WriteLine("Invalid marks entered. Please enter marks between 0 and 100.");
             return; // Exit if invalid marks >0 || <100
         }
-
         else // run if marks are valid
         {
+            double percentage = (mathMarks + scienceMarks + englishMarks) / 3;
 
-         int totalMarks = mathMarks + scienceMarks + englishMarks;
-         double percentage = (double)totalMarks / 3;
-
-         if (percentage >= 90 && percentage <= 100) //grade calculation
+            // Nested if-else for grade calculation
+            if (percentage >= 90 && percentage <= 100)
             {
                 Console.WriteLine("Grade: A+");
             }
@@ -202,30 +200,26 @@ class Program
             {
                 Console.WriteLine("Grade: A");
             }
-            else if (percentage >= 80 && percentage < 90)
+            else if (percentage >= 70 && percentage < 80)
             {
                 Console.WriteLine("Grade: B+");
             }
-            else if (percentage >= 70 && percentage < 80)
+            else if (percentage >= 60 && percentage < 70)
             {
                 Console.WriteLine("Grade: B");
             }
-            else if (percentage >= 60 && percentage < 70)
+            else if (percentage >= 50 && percentage < 60)
             {
                 Console.WriteLine("Grade: C+");
             }
-            else if (percentage >= 50 && percentage < 60)
-            {
-                Console.WriteLine("Grade: C");
-            }
             else if (percentage >= 40 && percentage < 50)
             {
-                Console.WriteLine("Grade: D");
+                Console.WriteLine("Grade: C");
             }
             else
             {
                 Console.WriteLine("Grade: F");
             }
+        }
     }
-}   
 }
