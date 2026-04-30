@@ -1,0 +1,14 @@
+/Users/dbtcmacbookpro/Desktop/ISMT/INTRO2PRO/obj/Debug/net10.0/INTRO2PRO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbtcmacbookpro/Desktop/ISMT/INTRO2PRO/obj/Debug/net10.0/INTRO2PRO.AssemblyInfoInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/INTRO2PRO/obj/Debug/net10.0/INTRO2PRO.AssemblyInfo.cs
+/Users/dbtcmacbookpro/Desktop/ISMT/INTRO2PRO/obj/Debug/net10.0/INTRO2PRO.csproj.CoreCompileInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/INTRO2PRO/bin/Debug/net10.0/INTRO2PRO
+/Users/dbtcmacbookpro/Desktop/ISMT/INTRO2PRO/bin/Debug/net10.0/INTRO2PRO.deps.json
+/Users/dbtcmacbookpro/Desktop/ISMT/INTRO2PRO/bin/Debug/net10.0/INTRO2PRO.runtimeconfig.json
+/Users/dbtcmacbookpro/Desktop/ISMT/INTRO2PRO/bin/Debug/net10.0/INTRO2PRO.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/INTRO2PRO/bin/Debug/net10.0/INTRO2PRO.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/INTRO2PRO/obj/Debug/net10.0/INTRO2PRO.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/INTRO2PRO/obj/Debug/net10.0/refint/INTRO2PRO.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/INTRO2PRO/obj/Debug/net10.0/INTRO2PRO.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/INTRO2PRO/obj/Debug/net10.0/INTRO2PRO.genruntimeconfig.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/INTRO2PRO/obj/Debug/net10.0/ref/INTRO2PRO.dll
