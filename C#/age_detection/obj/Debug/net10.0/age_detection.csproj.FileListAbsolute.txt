@@ -1,0 +1,15 @@
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/age_detection/bin/Debug/net10.0/age_detection
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/age_detection/bin/Debug/net10.0/age_detection.deps.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/age_detection/bin/Debug/net10.0/age_detection.runtimeconfig.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/age_detection/bin/Debug/net10.0/age_detection.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/age_detection/bin/Debug/net10.0/age_detection.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/age_detection/obj/Debug/net10.0/age_detection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/age_detection/obj/Debug/net10.0/age_detection.AssemblyInfoInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/age_detection/obj/Debug/net10.0/age_detection.AssemblyInfo.cs
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/age_detection/obj/Debug/net10.0/age_detection.csproj.CoreCompileInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/age_detection/obj/Debug/net10.0/age_detection.sourcelink.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/age_detection/obj/Debug/net10.0/age_detection.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/age_detection/obj/Debug/net10.0/refint/age_detection.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/age_detection/obj/Debug/net10.0/age_detection.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/age_detection/obj/Debug/net10.0/age_detection.genruntimeconfig.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/age_detection/obj/Debug/net10.0/ref/age_detection.dll
