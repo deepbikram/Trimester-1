@@ -1,0 +1,15 @@
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/switch/bin/Debug/net10.0/switch
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/switch/bin/Debug/net10.0/switch.deps.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/switch/bin/Debug/net10.0/switch.runtimeconfig.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/switch/bin/Debug/net10.0/switch.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/switch/bin/Debug/net10.0/switch.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/switch/obj/Debug/net10.0/switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/switch/obj/Debug/net10.0/switch.AssemblyInfoInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/switch/obj/Debug/net10.0/switch.AssemblyInfo.cs
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/switch/obj/Debug/net10.0/switch.csproj.CoreCompileInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/switch/obj/Debug/net10.0/switch.sourcelink.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/switch/obj/Debug/net10.0/switch.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/switch/obj/Debug/net10.0/refint/switch.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/switch/obj/Debug/net10.0/switch.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/switch/obj/Debug/net10.0/switch.genruntimeconfig.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/switch/obj/Debug/net10.0/ref/switch.dll
