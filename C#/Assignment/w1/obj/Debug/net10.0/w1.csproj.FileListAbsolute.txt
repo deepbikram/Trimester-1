@@ -1,0 +1,15 @@
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/Assignment/w1/bin/Debug/net10.0/w1
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/Assignment/w1/bin/Debug/net10.0/w1.deps.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/Assignment/w1/bin/Debug/net10.0/w1.runtimeconfig.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/Assignment/w1/bin/Debug/net10.0/w1.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/Assignment/w1/bin/Debug/net10.0/w1.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/Assignment/w1/obj/Debug/net10.0/w1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/Assignment/w1/obj/Debug/net10.0/w1.AssemblyInfoInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/Assignment/w1/obj/Debug/net10.0/w1.AssemblyInfo.cs
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/Assignment/w1/obj/Debug/net10.0/w1.csproj.CoreCompileInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/Assignment/w1/obj/Debug/net10.0/w1.sourcelink.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/Assignment/w1/obj/Debug/net10.0/w1.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/Assignment/w1/obj/Debug/net10.0/refint/w1.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/Assignment/w1/obj/Debug/net10.0/w1.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/Assignment/w1/obj/Debug/net10.0/w1.genruntimeconfig.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/Assignment/w1/obj/Debug/net10.0/ref/w1.dll

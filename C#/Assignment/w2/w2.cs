@@ -30,9 +30,9 @@ Number of pizzas needed (round up!)
 Total cost (assuming Rs:200 per pizza)
     */
 
-class Program
+internal class Week2Lab
 {
-    static void Main(string[] args)
+    static void Main()
     {
         // Asking input from the user
         Console.Write("Enter your name: ");
@@ -64,9 +64,25 @@ class Program
         Console.WriteLine($"Favorite food: {favoriteFood}");
         Console.WriteLine($"Temperature in Fahrenheit: {fahrenheit}");
 
-        // Pizza Party Calculator
+        // Pre fix two numbers and calculate sum, difference, product, quotient, remainder
+        int fN = 10;
+        int sN = 20;
+        int sum = fN + sN;
+        int difference = fN - sN;
+        int product = fN * sN;
+        double quotient = (double)fN / sN;
+        int remainder = fN % sN;
 
-        // Asking input for pizza party
+        // Showing output for calculations
+        Console.WriteLine($"First Number: {fN}");
+        Console.WriteLine($"Second Number: {sN}");
+        Console.WriteLine($"Sum: {sum}");
+        Console.WriteLine($"Difference: {difference}");
+        Console.WriteLine($"Product: {product}");
+        Console.WriteLine($"Quotient: {quotient}");
+        Console.WriteLine($"Remainder: {remainder}");
+
+        // Asking input for Pizza Party Calculator
         Console.Write("How many people are attending the party? ");
         int peopleAttending = Convert.ToInt32(Console.ReadLine());
 
