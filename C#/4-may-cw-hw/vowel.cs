@@ -1,7 +1,7 @@
 System.Console.WriteLine("Enter a character: ");
 char ch = Convert.ToChar(Console.ReadLine());
 
-switch (ch)
+switch (Char.ToLower(ch))
 {
     case 'a':
     case 'e':
@@ -13,4 +13,4 @@ switch (ch)
     default:
         Console.WriteLine($"{ch} is not a vowel.");
         break;
-}
+}   

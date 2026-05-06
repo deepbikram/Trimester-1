@@ -9,7 +9,7 @@ switch (op)
 {
     case '+':
         Console.WriteLine($"{num1} + {num2} = {num1 + num2}");
-        break;
+    break;
     case '-':
         Console.WriteLine($"{num1} - {num2} = {num1 - num2}");
         break;
