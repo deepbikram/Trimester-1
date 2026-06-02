@@ -1,0 +1,15 @@
+/Users/dbtcmacbookpro/Desktop/ISMT/exp/bin/Debug/net10.0/exp
+/Users/dbtcmacbookpro/Desktop/ISMT/exp/bin/Debug/net10.0/exp.deps.json
+/Users/dbtcmacbookpro/Desktop/ISMT/exp/bin/Debug/net10.0/exp.runtimeconfig.json
+/Users/dbtcmacbookpro/Desktop/ISMT/exp/bin/Debug/net10.0/exp.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/exp/bin/Debug/net10.0/exp.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/exp/obj/Debug/net10.0/exp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbtcmacbookpro/Desktop/ISMT/exp/obj/Debug/net10.0/exp.AssemblyInfoInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/exp/obj/Debug/net10.0/exp.AssemblyInfo.cs
+/Users/dbtcmacbookpro/Desktop/ISMT/exp/obj/Debug/net10.0/exp.csproj.CoreCompileInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/exp/obj/Debug/net10.0/exp.sourcelink.json
+/Users/dbtcmacbookpro/Desktop/ISMT/exp/obj/Debug/net10.0/exp.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/exp/obj/Debug/net10.0/refint/exp.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/exp/obj/Debug/net10.0/exp.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/exp/obj/Debug/net10.0/exp.genruntimeconfig.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/exp/obj/Debug/net10.0/ref/exp.dll

@@ -1,0 +1,15 @@
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/inheritance/bin/Debug/net10.0/inheritance
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/inheritance/bin/Debug/net10.0/inheritance.deps.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/inheritance/bin/Debug/net10.0/inheritance.runtimeconfig.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/inheritance/bin/Debug/net10.0/inheritance.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/inheritance/bin/Debug/net10.0/inheritance.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/inheritance/obj/Debug/net10.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/inheritance/obj/Debug/net10.0/inheritance.AssemblyInfoInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/inheritance/obj/Debug/net10.0/inheritance.AssemblyInfo.cs
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/inheritance/obj/Debug/net10.0/inheritance.csproj.CoreCompileInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/inheritance/obj/Debug/net10.0/inheritance.sourcelink.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/inheritance/obj/Debug/net10.0/inheritance.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/inheritance/obj/Debug/net10.0/refint/inheritance.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/inheritance/obj/Debug/net10.0/inheritance.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/inheritance/obj/Debug/net10.0/inheritance.genruntimeconfig.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/inheritance/obj/Debug/net10.0/ref/inheritance.dll

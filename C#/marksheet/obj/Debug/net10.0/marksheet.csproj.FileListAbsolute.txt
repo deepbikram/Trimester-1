@@ -1,0 +1,15 @@
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/marksheet/bin/Debug/net10.0/marksheet
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/marksheet/bin/Debug/net10.0/marksheet.deps.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/marksheet/bin/Debug/net10.0/marksheet.runtimeconfig.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/marksheet/bin/Debug/net10.0/marksheet.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/marksheet/bin/Debug/net10.0/marksheet.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/marksheet/obj/Debug/net10.0/marksheet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/marksheet/obj/Debug/net10.0/marksheet.AssemblyInfoInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/marksheet/obj/Debug/net10.0/marksheet.AssemblyInfo.cs
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/marksheet/obj/Debug/net10.0/marksheet.csproj.CoreCompileInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/marksheet/obj/Debug/net10.0/marksheet.sourcelink.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/marksheet/obj/Debug/net10.0/marksheet.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/marksheet/obj/Debug/net10.0/refint/marksheet.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/marksheet/obj/Debug/net10.0/marksheet.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/marksheet/obj/Debug/net10.0/marksheet.genruntimeconfig.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/marksheet/obj/Debug/net10.0/ref/marksheet.dll
