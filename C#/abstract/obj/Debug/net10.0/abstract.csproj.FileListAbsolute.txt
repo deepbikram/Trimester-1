@@ -1,0 +1,15 @@
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/abstract/bin/Debug/net10.0/abstract
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/abstract/bin/Debug/net10.0/abstract.deps.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/abstract/bin/Debug/net10.0/abstract.runtimeconfig.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/abstract/bin/Debug/net10.0/abstract.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/abstract/bin/Debug/net10.0/abstract.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/abstract/obj/Debug/net10.0/abstract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/abstract/obj/Debug/net10.0/abstract.AssemblyInfoInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/abstract/obj/Debug/net10.0/abstract.AssemblyInfo.cs
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/abstract/obj/Debug/net10.0/abstract.csproj.CoreCompileInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/abstract/obj/Debug/net10.0/abstract.sourcelink.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/abstract/obj/Debug/net10.0/abstract.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/abstract/obj/Debug/net10.0/refint/abstract.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/abstract/obj/Debug/net10.0/abstract.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/abstract/obj/Debug/net10.0/abstract.genruntimeconfig.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/abstract/obj/Debug/net10.0/ref/abstract.dll

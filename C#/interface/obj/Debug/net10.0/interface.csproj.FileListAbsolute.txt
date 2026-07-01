@@ -1,0 +1,15 @@
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/interface/obj/Debug/net10.0/interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/interface/obj/Debug/net10.0/interface.AssemblyInfoInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/interface/obj/Debug/net10.0/interface.AssemblyInfo.cs
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/interface/obj/Debug/net10.0/interface.csproj.CoreCompileInputs.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/interface/obj/Debug/net10.0/interface.sourcelink.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/interface/bin/Debug/net10.0/interface
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/interface/bin/Debug/net10.0/interface.deps.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/interface/bin/Debug/net10.0/interface.runtimeconfig.json
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/interface/bin/Debug/net10.0/interface.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/interface/bin/Debug/net10.0/interface.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/interface/obj/Debug/net10.0/interface.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/interface/obj/Debug/net10.0/refint/interface.dll
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/interface/obj/Debug/net10.0/interface.pdb
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/interface/obj/Debug/net10.0/interface.genruntimeconfig.cache
+/Users/dbtcmacbookpro/Desktop/ISMT/C#/interface/obj/Debug/net10.0/ref/interface.dll
